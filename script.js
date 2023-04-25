@@ -32,6 +32,3 @@ window.addEventListener("scroll", () => {
 
 });
 
-window.addEventListener("resize", () => {
-    window.location.reload();
-  });
